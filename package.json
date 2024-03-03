@@ -1,0 +1,25 @@
+{
+  "name": "friendly-eureka",
+  "version": "1.0.0",
+  "description": "Student project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklamvt940/friendly-eureka.git"
+  },
+  "dependencies": {
+    "redesigned-octo-winner": "1.0.0",
+    "ubiquitous-octo-engine": "1.0.0",
+    "legendary-robot": "1.0.0",
+    "friendly-barnacle": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reklamvt940/friendly-eureka/issues"
+  },
+  "homepage": "https://github.com/reklamvt940/friendly-eureka#readme"
+}
