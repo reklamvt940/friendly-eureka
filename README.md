@@ -1,0 +1,2 @@
+# friendly-eureka
+Student project
