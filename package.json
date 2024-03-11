@@ -1,6 +1,6 @@
 {
   "name": "friendly-eureka",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Student project",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reklamvt940/friendly-eureka.git"
+    "url": "https://github.com/reklamvt940/friendly-eureka.git"
   },
   "dependencies": {
     "redesigned-octo-winner": "1.0.0",
     "ubiquitous-octo-engine": "1.0.0",
     "legendary-robot": "1.0.0",
-    "friendly-barnacle": "1.0.0",,
-    "fictional-guacamole": "1.0.0"
-    "fictional-guacamole": "1.0.0"
+    "friendly-barnacle": "1.0.0",
+    "fictional-guacamole": "1.0.0",
+    "data-structures-by-a1lexen": "1.0.1"
   },
   "author": "",
   "license": "ISC",
